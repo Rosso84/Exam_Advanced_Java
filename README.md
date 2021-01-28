@@ -8,6 +8,8 @@ The materials learned in this class included:
 -Understand how Server-client communication works with the use of sockets.
 -Unit testing with Junit 
 
+The application should show a terminal that provides a menu with different options that will perform CRUD operations and output data about a football register. 
+
 ### How to run
 It is required that:
 
@@ -15,10 +17,11 @@ It is required that:
 -You have Maven installed
 -You have MySQL workbench for local storage (download from: https://dev.mysql.com/downloads/workbench/).
 -A CLI such as Git bash or just use the terminal.
-Ones you have installed everything open the 'Innleveringen' project and navigate to the root of the folder and run:
-'mvn clean install'
+Ones you have installed everything open the the JDB-task project and fill in your credentials for your mysql workbench inside /resources/userlogin in order to connect to your DB. 
+-Run: 'mvn clean install'
+-Righclick Runapplication.java and run. 
 
-Now you should be able to run it in RunApplication.class inside JDBC-task
+
 
 
 
