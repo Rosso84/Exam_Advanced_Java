@@ -1,0 +1,5 @@
+klubblag
+klubb_id 	int	 	not null auto_increment
+navn		varchar(100) 	not null
+land		varchar(100)	not null
+

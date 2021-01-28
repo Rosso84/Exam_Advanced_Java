@@ -1,0 +1,6 @@
+2018-07-03 12:24:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "LANDSLAG" not found; SQL statement:
+SELECT FROM landslag WHERE klubb_id = ? [42102-196]
+2018-07-03 12:24:48 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "SELECT FROM KLUBBLAG WHERE[*] KLUBB_ID = ? "; expected "., (, USE, AS, RIGHT, LEFT, FULL, INNER, JOIN, CROSS, NATURAL, ,, SELECT"; SQL statement:
+SELECT FROM klubblag WHERE klubb_id = ? [42001-196]

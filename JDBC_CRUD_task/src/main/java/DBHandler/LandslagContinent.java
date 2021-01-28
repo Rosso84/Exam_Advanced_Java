@@ -1,0 +1,6 @@
+package DBHandler;
+
+public enum LandslagContinent {
+
+    EUROPA, AFRIKA, SOR_AMERIKA, ASIA, NORD_MELLOM_AMERIKA, KARIBIA, OSEANIA, INGEN_VERTSLAND
+}

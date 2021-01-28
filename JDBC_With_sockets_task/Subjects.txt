@@ -1,0 +1,7 @@
+SUBCOD CAMPUS LECTUREFRM PRGRBEL DURATI PARTICIPPANTS
+PGR200 Fjerdi excer/lect Tech/IT Autumn 100 
+PG3300 Vulkan excer/lect Tech/IT Autumn 150
+PG4200 Fjerdi excer/lect Tech/IT Spring 110 
+varchar(100) 
+Subjects
+

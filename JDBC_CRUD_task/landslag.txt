@@ -1,0 +1,6 @@
+landslag
+landslag_id	int 		not  null  auto_increment
+navn 		varchar(100) 	not  null
+trener	 	varchar(100) 	not  null
+fifaranking 	int 		not  null
+kvalifisering 		

@@ -1,0 +1,6 @@
+spiller
+spiller_id   int not null auto_increment 
+navn varchar(100) not null
+foedselsdato date 
+landslag_id	int not null
+klubb_id int 
