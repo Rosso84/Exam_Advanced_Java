@@ -1,6 +1,6 @@
 
 ## About
-There were three tasks that were required to do in order to fulfill the necesserely requirements for a grade C in subject PGR200. 
+There were three tasks that were required to do in order to fulfill the necessary requirements for a grade C in subject PGR200. 
 The materials learned in this class included:
 
 -basic understanding of Maven. 
